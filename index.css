@@ -12,3 +12,29 @@ footer{
     padding: 30px 0;
     color:  rgb(170, 170, 213);
 }
+
+h1{
+    font-size: 50px;
+    padding-left: 2%;
+    color:bisque;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+li{
+    padding: 0 10px;
+    list-style: none;
+    border: 3px solid blueviolet;
+    background-color: aquamarine;
+    border-radius: 6px;
+    font-size: 25px;
+
+}
+li:hover{
+    background-color: rgb(62, 168, 56);
+    color: rgb(234, 255, 127);
+
+}
